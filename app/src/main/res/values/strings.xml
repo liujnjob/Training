@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">军事训练</string>
+    <string name="android6_request_location">need to open location info for discovery bluetooth device in android6.0 version，otherwise find not！</string>
+    <string name="main_tab_name_home">首页</string>
+    <string name="main_tab_name_family">团队</string>
+    <string name="main_tab_name_explore">发现</string>
+    <string name="main_tab_name_message">服务</string>
+    <string name="main_tab_name_my">我</string>
+
+    <string name="main_text_in_kswy">快速问医</string>
+    <string name="main_text_in_cgjc">常规检测</string>
+    <string name="main_text_in_myyy">名医预约</string>
+
+    <string name="main_text_desribe_kswy">家庭医生 有问必答</string>
+    <string name="main_text_describe_cgjc">健康监测 为您服务</string>
+    <string name="main_text_describe_myyy">快捷方便 名医检查</string>
+
+    <string name="news_title">军事资讯</string>
+    <string name="loading">加载中...</string>
+    <string name="loading_no_more">已加载全部</string>
+    <string name="error_view_no_data">暂无内容</string>
+
+
+    <string name="copy_success">复制成功</string>
+    <string name="loading_waiting">加载中，请稍后...</string>
+
+    <!-- Error View -->
+    <string name="error_view_click_to_refresh">点击屏幕,重新加载</string>
+    <string name="error_view_loading">加载中…</string>
+    <string name="error_view_load_error_click_to_refresh">内容加载失败\r\n点击重新加载</string>
+    <string name="error_view_network_error_click_to_refresh">没有可用的网络</string>
+    <string name="tip_network_error">没有可用的网络</string>
+
+
+
+</resources>

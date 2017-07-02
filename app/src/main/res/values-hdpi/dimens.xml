@@ -1,0 +1,78 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 应用标题 -->
+
+    <dimen name="app_title">24sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="larger">18sp</dimen>
+    <dimen name="medium">16sp</dimen>
+    <dimen name="small">14sp</dimen>
+    <dimen name="micro">12sp</dimen>
+    <dimen name="title_bar_height">48dp <!-- 标题栏高度 -->
+
+    </dimen>
+
+    <dimen name="login_sys_name_text_size">22sp</dimen>
+    <dimen name="login_copy_name_text_size">24sp</dimen>
+    <dimen name="login_user">18sp</dimen>
+    <dimen name="login_user_input_space">4dp</dimen>
+    <dimen name="login_user_input_paddingLeft_space">8dp</dimen>
+    <dimen name="login_button_text_size">24sp</dimen>
+
+    <!--main主界面-->
+    <dimen name="main_top_img_height">320dp</dimen>
+    <dimen name="main_icon_text_size">18sp</dimen>
+    <dimen name="main_doctor_name_text_size">16sp</dimen>
+    <!--计划任务-->
+    <dimen name="task_btn_text_size">18sp</dimen>
+    <dimen name="normal_margin_space_8">8dp</dimen>
+    <dimen name="task_btn_padding">10dp</dimen>
+    <dimen name="normal_text_size_18">18sp</dimen>
+    <dimen name="task_title_text_size">17sp</dimen>
+    <dimen name="normal_text_size_16">16sp</dimen>
+    <dimen name="normal_text_size_14">14sp</dimen>
+<!--高血压界面搜索-->
+    <dimen name="search_padding_left_space10">10dp</dimen>
+    <dimen name="btn_add_width_size_32">32dp</dimen>
+    <dimen name="title_bar_text_size">20.0sp</dimen>
+    <dimen name="title_bar_text_small_size">15.0sp</dimen>
+    <dimen name="search_padding_left_space">24dp</dimen>
+    <dimen name="search_padding_bottom_space_10">10dp</dimen>
+    <dimen name="search_title_btn_height">42dp</dimen>
+    <dimen name="search_title_btn_width">60dp</dimen>
+    <!--家庭档案-->
+    <dimen name="family_btn_state_height">30dp</dimen>
+    <dimen name="family_normal_text_size_16">16sp</dimen>
+    <dimen name="family_add_new_text_size_16">16sp</dimen>
+    <!--设置服务器-->
+    <dimen name="setting_server_text_width">40dp</dimen>
+<!--体重仪管理-->
+<dimen name="device_name_text_size_24">24sp</dimen>
+    <dimen name="device_address_text_size_12">12sp</dimen>
+    <!-- logo字体 -->
+    <dimen name="txt_logo_size">20sp</dimen>
+    <dimen name="item_padding_left_right">8dp</dimen>
+    <dimen name="item_padding_top_bottom">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="normal_padding_space_8">8dp</dimen>
+    <dimen name="normal_padding_space_4">4dp</dimen>
+
+    <dimen name="myparents_infos_list_height">60.0dip</dimen>
+    <dimen name="divider_height">0.5dip</dimen>
+<!--随访界面-->
+    <dimen name="flup_btn_measure_width">72dp</dimen>
+    <dimen name="flup_btn_measure_height">40dp</dimen>
+    <dimen name="text_size_small">12.0sp</dimen>
+    <dimen name="text_size_small2">14.0sp</dimen>
+    <dimen name="text_size_medium">16.0sp</dimen>
+    <dimen name="text_size_medium2">18.0sp</dimen>
+    <dimen name="text_size_medium3">20.0sp</dimen>
+    <dimen name="text_size_large">22.0sp</dimen>
+    <dimen name="text_size_xlarge">30.0sp</dimen>
+    <dimen name="text_size_bigest">42.0sp</dimen>
+    <dimen name="text_size_xxbigest">58.0sp</dimen>
+    <dimen name="text_size_xxxbigest">78.0sp</dimen>
+    <dimen name="layout_search_edittext_radius_size_10">10dp</dimen>
+</resources>

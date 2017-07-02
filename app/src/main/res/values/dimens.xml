@@ -1,0 +1,112 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="app_title">18sp    <!-- 应用标题 -->
+    </dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="larger">18sp</dimen>
+    <dimen name="medium">16sp</dimen>
+    <dimen name="small">14sp</dimen>
+    <dimen name="micro">12sp</dimen>
+    <dimen name="title_bar_height">48dp <!-- 标题栏高度 -->
+
+
+    </dimen>
+
+    <dimen name="login_sys_name_text_size">10sp</dimen>
+    <dimen name="login_copy_name_text_size">24sp</dimen>
+
+
+    <dimen name="main_top_img_height">200dp</dimen>
+    <dimen name="main_icon_text_size">18sp</dimen>
+
+
+    <dimen name="title_bar_text_size">20.0sp</dimen>
+    <dimen name="title_bar_text_small_size">15.0sp</dimen>
+    <dimen name="txt_logo_size">20sp   <!-- logo字体 -->
+    </dimen>
+    <dimen name="item_padding_left_right">8dp</dimen>
+    <dimen name="item_padding_top_bottom">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="myparents_infos_list_height">60.0dip</dimen>
+    <dimen name="divider_height">0.5dip</dimen>
+
+    <dimen name="text_size_small">12.0sp</dimen>
+    <dimen name="text_size_small2">14.0sp</dimen>
+    <dimen name="text_size_medium">16.0sp</dimen>
+    <dimen name="text_size_medium2">18.0sp</dimen>
+    <dimen name="text_size_medium3">20.0sp</dimen>
+    <dimen name="text_size_large">22.0sp</dimen>
+    <dimen name="text_size_xlarge">30.0sp</dimen>
+    <dimen name="text_size_bigest">42.0sp</dimen>
+    <dimen name="text_size_xxbigest">58.0sp</dimen>
+    <dimen name="text_size_xxxbigest">78.0sp</dimen>
+
+    <dimen name="text_size_32">32.0dip</dimen>
+    <dimen name="text_size_31">31.0dip</dimen>
+    <dimen name="text_size_30">30.0dip</dimen>
+    <dimen name="text_size_29">29.0dip</dimen>
+    <dimen name="text_size_28">28.0dip</dimen>
+    <dimen name="text_size_27">27.0dip</dimen>
+    <dimen name="text_size_26">26.0dip</dimen>
+    <dimen name="text_size_25">25.0dip</dimen>
+    <dimen name="text_size_24">24.0dip</dimen>
+    <dimen name="text_size_23">23.0dip</dimen>
+    <dimen name="text_size_22">22.0dip</dimen>
+    <dimen name="text_size_21">21.0dip</dimen>
+    <dimen name="text_size_20">20.0dip</dimen>
+    <dimen name="text_size_19">19.0dip</dimen>
+    <dimen name="text_size_18">18.0dip</dimen>
+    <dimen name="text_size_17">17.0dip</dimen>
+    <dimen name="text_size_16">16.0dip</dimen>
+    <dimen name="text_size_15">15.0dip</dimen>
+    <dimen name="text_size_14">14.0dip</dimen>
+    <dimen name="text_size_13">13.0dip</dimen>
+    <dimen name="text_size_12">12.0dip</dimen>
+    <dimen name="text_size_11">11.0dip</dimen>
+    <dimen name="text_size_10">10.0dip</dimen>
+    <dimen name="text_size_9">9.0dip</dimen>
+    <dimen name="text_size_8">8.0dip</dimen>
+    <dimen name="text_size_7">7.0dip</dimen>
+
+    <dimen name="space_100">100.0dip</dimen>
+    <dimen name="space_60">60dp</dimen>
+    <dimen name="space_49">49dip</dimen>
+    <dimen name="space_35">35.0dip</dimen>
+    <dimen name="space_30">30.0dip</dimen>
+    <dimen name="space_29">29.0dip</dimen>
+    <dimen name="space_28">28.0dip</dimen>
+    <dimen name="space_27">27.0dip</dimen>
+    <dimen name="space_26">26.0dip</dimen>
+    <dimen name="space_25">25.0dip</dimen>
+    <dimen name="space_24">24.0dip</dimen>
+    <dimen name="space_23">23.0dip</dimen>
+    <dimen name="space_22">22.0dip</dimen>
+    <dimen name="space_21">21.0dip</dimen>
+    <dimen name="space_20">20.0dip</dimen>
+    <dimen name="space_19">19.0dip</dimen>
+    <dimen name="space_18">18.0dip</dimen>
+    <dimen name="space_17">17.0dip</dimen>
+    <dimen name="space_16">16.0dip</dimen>
+    <dimen name="space_15">15.0dip</dimen>
+    <dimen name="space_14">14.0dip</dimen>
+    <dimen name="space_13">13.0dip</dimen>
+    <dimen name="space_12">12.0dip</dimen>
+    <dimen name="space_11">11.0dip</dimen>
+    <dimen name="space_10">10.0dip</dimen>
+    <dimen name="space_9">9.0dip</dimen>
+    <dimen name="space_8">8.0dip</dimen>
+    <dimen name="space_7">7.0dip</dimen>
+    <dimen name="space_6">6.0dip</dimen>
+    <dimen name="space_5">5.0dip</dimen>
+    <dimen name="space_4">4.0dip</dimen>
+    <dimen name="space_3">3.0dip</dimen>
+    <dimen name="space_2">2.0dip</dimen>
+    <dimen name="space_1">1.0dip</dimen>
+    <dimen name="item_round">5dp</dimen>
+    <dimen name="layout_search_edittext_radius_size_10">10dp</dimen>
+</resources>
