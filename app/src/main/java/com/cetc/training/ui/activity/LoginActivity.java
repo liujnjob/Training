@@ -2,7 +2,6 @@ package com.cetc.training.ui.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
@@ -88,14 +87,7 @@ public class LoginActivity extends BaseActivity {
 //            ToastUtils.show(context,"请输入密码");
 //            return;
 //        }
-        //获取当前程序路径
-
-        String absolutePath = getApplicationContext().getFilesDir().getAbsolutePath();
-
-//获取该程序的安装包路径
-
-        String path=getApplicationContext().getPackageResourcePath();
-        Log.i(TAG,"absolutePath="+absolutePath+",path="+path);
+    
         Intent intent = new Intent(this,MainActivity.class);
         startActivity(intent);
         finish();
